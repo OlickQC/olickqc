@@ -1,8 +1,11 @@
 Hi there 👋 my name is Olivier 
 
+I’ve been building things on the web since my early teens, from community sites to game servers with thousands of members. Today I work as a Windows Sysadmin in a large corporate, while spending my free time coding, self-hosting, and chasing open-source alternatives to everything.
+
 - 👩🏻‍💻 Currently working as a Windows Sysadmin in a large financial company
 - 🤖 Have a huge interest in self-hosting and automation
 - 🌱 I’m currently learning about CI, Ansible and Terraform
+- 🐍 My favorite language is Python
 
 Check out my ✨[_blog_](https://olickqc.github.io/)✨ to learn about my projects
 
