@@ -1,4 +1,10 @@
-## Hi there 👋
+Hi there 👋 my name is Olivier 
+
+- 👩🏻‍💻 Currently working as a Windows Sysadmin in a large financial company
+- 🤖 Have a huge interest in self-hosting and automation
+- 🌱 I’m currently learning about CI, Ansible and Terraform
+
+Check out my ✨[_blog_](https://olickqc.github.io/)✨ to learn about my projects
 
 <!--
 **OlickQC/olickqc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
